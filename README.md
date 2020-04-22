@@ -1,0 +1,2 @@
+# CalculatingSquare
+Дипломная работа
