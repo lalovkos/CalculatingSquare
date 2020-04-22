@@ -30,4 +30,7 @@
 *.exe
 *.out
 *.app
+#VS files
 *.vs
+*.user
+*.csproj
